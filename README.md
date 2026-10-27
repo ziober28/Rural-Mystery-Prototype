@@ -24,6 +24,12 @@ The prototype demonstrates the foundations of the game's gameplay and atmosphere
 
 [**Download for Windows — Playable Prototype (v0.1.0)**](../../releases/latest)
 
+## Gameplay Showcase
+
+[![Rural Mystery Prototype – Gameplay Showcase](https://img.youtube.com/vi/7difHJzP2_s/maxresdefault.jpg)](https://youtu.be/7difHJzP2_s)
+
+*Watch the gameplay showcase to see the level design, environmental lighting, exploration, vehicle gameplay, and combat mechanics.*
+
 ## Screenshots
 
 ### The Farm
