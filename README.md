@@ -38,4 +38,4 @@ The prototype demonstrates the foundations of the game's gameplay and atmosphere
 
 ### Combat
 
-![Farm Environment](screenshots/farm-overview.png)
+![Farm Environment](screenshots/combat-gameplay.png)
