@@ -19,3 +19,19 @@ What happened at the farm? Why did your partner never show up? And could this pl
 - **Combat:** Use firearms as part of the gameplay experience.
 
 The prototype demonstrates the foundations of the game's gameplay and atmosphere. It represents an early playable slice of a larger project, rather than a complete game.
+
+## Screenshots
+
+### The Farm
+
+![Farm Environment](screenshots/farm-overview.png)
+
+### Exploration and Investigation
+
+![Farm Building](screenshots/farm-building.png)
+
+![Police Cruiser](screenshots/police-cruiser.png)
+
+### Driving
+
+![Driving Gameplay](screenshots/driving-gameplay.png)
