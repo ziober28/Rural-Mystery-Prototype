@@ -28,8 +28,9 @@ The prototype demonstrates the foundations of the game's gameplay and atmosphere
 
 [![Rural Mystery Prototype – Gameplay Showcase](https://img.youtube.com/vi/7difHJzP2_s/maxresdefault.jpg)](https://youtu.be/7difHJzP2_s)
 
-*Watch the gameplay showcase to see the level design, environmental lighting, exploration, vehicle gameplay, and combat mechanics.*
+[▶ Watch the full gameplay video on YouTube](https://youtu.be/7difHJzP2_s)
 
+*Watch the gameplay showcase to see the level design, environmental lighting, exploration, vehicle gameplay, and combat mechanics.*
 ## Screenshots
 
 ### The Farm
