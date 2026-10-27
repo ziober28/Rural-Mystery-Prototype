@@ -44,6 +44,19 @@ The prototype demonstrates the foundations of the game's gameplay and atmosphere
 
 ![Combat Gameplay](screenshots/combat-gameplay.png)
 
+## Controls
+
+| Action | Key / Input |
+|---|---|
+| Enter / Exit Vehicle | `E` |
+| Interact | `E` |
+| Equip / Holster Rifle | `1` |
+| Equip / Holster Pistol | `2` |
+| Stealth Takedown | `F` |
+| Switch Camera | `V` |
+| Crouch / Sneak | `Left Alt` |
+| Aim | `Right Mouse Button` |
+
 ## Development
 
 - **Engine:** Unreal Engine 4
