@@ -28,8 +28,6 @@ The prototype demonstrates the foundations of the game's gameplay and atmosphere
 
 ### Exploration and Investigation
 
-![Farm Building](screenshots/farm-building.png)
-
 ![Police Cruiser](screenshots/police-cruiser.png)
 
 ### Driving
@@ -39,3 +37,5 @@ The prototype demonstrates the foundations of the game's gameplay and atmosphere
 ### Combat
 
 ![Farm Environment](screenshots/combat-gameplay.png)
+
+![Farm Building](screenshots/farm-building.png)
