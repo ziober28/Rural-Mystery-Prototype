@@ -12,10 +12,10 @@ What happened at the farm? Why did your partner never show up? And could this pl
 
 ## Prototype Features
 
-- **Exploration:** Investigate an atmospheric rural environment on foot.
+- **Exploration:** Investigate an atmospheric rural environment.
 - **Vehicle Gameplay:** Drive vehicles and explore the surroundings.
 - **Camera Switching:** Switch between different camera perspectives.
-- **Object Interaction:** Collect keys and interact with elements of the environment.
+- **Object Interaction:** Interact with elements of the environment.
 - **Combat:** Use firearms as part of the gameplay experience.
 
 The prototype demonstrates the foundations of the game's gameplay and atmosphere. It represents an early playable slice of a larger project, rather than a complete game.
@@ -43,6 +43,16 @@ The prototype demonstrates the foundations of the game's gameplay and atmosphere
 ### Combat
 
 ![Combat Gameplay](screenshots/combat-gameplay.png)
+
+## My Contributions
+
+I was responsible for designing and implementing the playable level, focusing on environmental storytelling, player guidance, and core gameplay mechanics.
+
+- **Level Design:** Designed and built the entire playable level, arranging the environment to support exploration, atmosphere, and the progression of the experience.
+- **Lighting:** Designed and implemented the level's lighting, using light, shadows, and visual contrast to guide the player toward important locations and points of interest. Lighting played an important role in directing player attention and supporting the level's overall design.
+- **Blueprint Programming:** Created the Blueprints for the gameplay mechanics, including shooting, vehicle driving, and other interactive systems. I developed the logic and designed how these mechanics work, using tutorials and online resources to support my learning and implementation.
+- **Environment Art and Set Dressing:** Created selected environmental assets, including trees, ground, and roads. I also designed and arranged the interiors of buildings, which were initially undecorated. Most other 3D models were sourced from free assets.
+- **UI Design:** Designed and implemented the game's user interface, focusing on presenting gameplay information clearly and supporting the player experience.
 
 ## Controls
 
