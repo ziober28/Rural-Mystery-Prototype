@@ -35,3 +35,7 @@ The prototype demonstrates the foundations of the game's gameplay and atmosphere
 ### Driving
 
 ![Driving Gameplay](screenshots/driving-gameplay.png)
+
+### Combat
+
+![Farm Environment](screenshots/farm-overview.png)
