@@ -43,3 +43,9 @@ The prototype demonstrates the foundations of the game's gameplay and atmosphere
 ### Combat
 
 ![Combat Gameplay](screenshots/combat-gameplay.png)
+
+## Development
+
+- **Engine:** Unreal Engine 4
+- **Platform:** Windows
+- **Project Type:** Playable Level Prototype
