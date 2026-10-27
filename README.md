@@ -20,6 +20,10 @@ What happened at the farm? Why did your partner never show up? And could this pl
 
 The prototype demonstrates the foundations of the game's gameplay and atmosphere. It represents an early playable slice of a larger project, rather than a complete game.
 
+## Download Playable Build
+
+[**Download for Windows — Playable Prototype (v0.1.0)**](../../releases/latest)
+
 ## Screenshots
 
 ### The Farm
