@@ -57,6 +57,11 @@ The prototype demonstrates the foundations of the game's gameplay and atmosphere
 | Crouch / Sneak | `Left Alt` |
 | Aim | `Right Mouse Button` |
 
+## Known Issues
+
+- **Stealth Takedown:** The takedown mechanic currently requires precise positioning behind the enemy to trigger successfully.
+- **Camera Tilt After Exiting a Vehicle:** When the player exits a vehicle parked on uneven terrain, the camera may become slightly tilted. This is a known issue in the current prototype.
+
 ## Development
 
 - **Engine:** Unreal Engine 4
