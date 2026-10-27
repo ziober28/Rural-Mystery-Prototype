@@ -53,7 +53,7 @@ The prototype demonstrates the foundations of the game's gameplay and atmosphere
 | Equip / Holster Rifle | `1` |
 | Equip / Holster Pistol | `2` |
 | Stealth Takedown | `F` |
-| Switch Camera | `V` |
+| Switch Camera | `Hold V` |
 | Crouch / Sneak | `Left Alt` |
 | Aim | `Right Mouse Button` |
 
